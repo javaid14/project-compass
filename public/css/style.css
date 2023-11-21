@@ -184,4 +184,9 @@ body{
     .panel{
         display: inline-flex;
     }
+    #map {
+        height:200px;
+        width:50vh;
+        margin-left: 5px;
+    }
 }
