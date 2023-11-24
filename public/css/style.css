@@ -29,13 +29,15 @@ body{
 .f-info-links a:hover{
     text-decoration: underline;
 }
-.f-info-links,.f-info-socials,.f-info-brand{
+.f-info-links,.f-info-title,.f-info-socials,.f-info-brand{
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
- 
+.f-info-title{
+    font-weight: 500;
+}
 .f-info-socials i{
     margin-right: .8rem;
     font-size: 1.2rem;
